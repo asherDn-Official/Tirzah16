@@ -1,0 +1,1040 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 700px) {
+  /* <!------------------------------Our Service Works First Section --------------------> */
+  .OUrservicefirsdtseti9ondropdowen {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    align-items: flex-start;
+    margin-left: 16px;
+    margin-right: 0px;
+    padding-top: 30px;
+  }
+
+  .OurWorksSecdftiondiv {
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #062225;
+  }
+
+  /* <!-------------DropDown CSS ------------> */
+
+  .select-dropdown,
+  .select-dropdown * {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    box-sizing: border-box;
+  }
+  .select-dropdown {
+    position: relative;
+    background-color: transparent;
+    border-radius: 4px;
+    width: 300px;
+    height: 43px;
+    border: 2px solid #004147;
+  }
+  .select-dropdown select {
+    width: 100%;
+    height: 43px;
+    padding: 8px 24px 8px 10px;
+    border: none;
+    background-color: transparent;
+    appearance: none;
+    font-family: Cormorant Infant;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .select-dropdown select:active,
+  .select-dropdown select:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  .select-dropdown:after {
+    content: "";
+    position: absolute;
+    top: 47%;
+    right: 16px;
+    width: -13px;
+    height: 9px;
+    margin-top: -2px;
+    border-top: 9px solid #004147;
+    border-right: 9px solid transparent;
+    border-left: 9px solid transparent;
+  }
+
+  /* <!-------------DropDown CSS ------------> */
+
+  /* <!------------------------------Our Service Works First Section --------------------> */
+
+  /* <!------------------------------Our Service Works sECOND Section --------------------> */
+
+  /* <!------------------Animation Page--------------------> */
+
+  .NAmoftheaboutSection {
+    position: absolute;
+    color: #fff;
+    top: 430px;
+    left: 30px;
+    font-family: Cormorant Infant;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+  }
+  .OurServicepagedivnkdkd {
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+  }
+  .OurServicepagedivnkdkd img {
+    position: relative;
+    top: 0;
+    left: 0;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+  .OurServicepagedivnkdkd .zssadtl {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    top: 100%;
+    padding: 0 10px 0 10px;
+    left: 0;
+    z-index: 1;
+    overflow: auto;
+    visibility: hidden;
+    transition: all 0.3s;
+  }
+  .OurServicepagedivnkdkd .zssadtl h3 {
+    color: #fff;
+    font-family: Cormorant Infant;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+  }
+
+  .OurServicepagedivnkdkd .zssadtl h5 {
+    color: #fff;
+    margin-bottom: 15px;
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 3px;
+  }
+  .OurServicepagedivnkdkd .zssadtl p {
+    margin-bottom: 10px;
+    text-indent: 1px;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 5px;
+    color: #fff;
+    font-family: Cormorant Infant;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .OurServicepagedivnkdkd .zssadtl a {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    color: #333;
+    float: right;
+    font-size: 13px;
+    padding: 2px 5px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .OurServicepagedivnkdkd:hover img {
+    top: -100%;
+  }
+  .OurServicepagedivnkdkd:hover .zssadtl {
+    top: 0px;
+    opacity: 1;
+    visibility: visible;
+    /* margin-top: 5px; */
+  }
+
+  .HelloText {
+    position: absolute;
+    bottom: 30px;
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    color: #fff;
+    margin-left: 25px;
+  }
+
+  .MofularKitchesnfonts {
+    font-family: Cormorant Infant;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #dbbf8b;
+    text-align: left;
+    margin-left: 6px;
+    margin-top: -5px;
+    margin-bottom: -4px;
+  }
+
+  .OurServicepagedivnkdkd:hover {
+    .HelloText {
+      display: none;
+      -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      -moz-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+    }
+  }
+  .SizeoftheAboutPAGEiAMEG {
+    width: 180px;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .OurServicepagedivnkdkd:hover {
+    .NAmoftheaboutSection {
+      display: none;
+    }
+  }
+  /* <!------------------Animation Page--------------------> */
+
+  .oURwORKSDSECONDSECTIONDATSTS {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .OUrworkdddddsbdfgydfghfdghf {
+    display: flex;
+    justify-content: center;
+    width: auto;
+  }
+
+  .OurserviceSectionPagedivmargintop {
+    margin-top: 50px;
+  }
+
+  .Maqrgiontopfiethediv {
+    margin-top: 0px;
+  }
+
+  .Maqrgiontopfiethediv:hover {
+    cursor: pointer;
+  }
+  /* <!------------------------------Our Service Works sECOND Section --------------------> */
+}
+
+@media (min-width: 700px) and (max-width: 900px) {
+  /* <!------------------------------Our Service Works First Section --------------------> */
+  .OUrservicefirsdtseti9ondropdowen {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 50px;
+  }
+
+  .OurWorksSecdftiondiv {
+    font-family: Cormorant Infant;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0em;
+    color: #062225;
+  }
+
+  /* <!-------------DropDown CSS ------------> */
+
+  .select-dropdown,
+  .select-dropdown * {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    box-sizing: border-box;
+  }
+  .select-dropdown {
+    position: relative;
+    background-color: transparent;
+    border-radius: 4px;
+    width: 320px;
+    height: 50px;
+    border: 2px solid #004147;
+  }
+  .select-dropdown select {
+    font-size: 1rem;
+    font-weight: normal;
+    width: 320px;
+    height: 40px;
+    padding: 8px 24px 8px 10px;
+    border: none;
+    background-color: transparent;
+    appearance: none;
+    font-family: Cormorant Infant;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+  }
+  .select-dropdown select:active,
+  .select-dropdown select:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  .select-dropdown:after {
+    content: "";
+    position: absolute;
+    top: 47%;
+    right: 16px;
+    width: -13px;
+    height: 9px;
+    margin-top: -2px;
+    border-top: 9px solid #004147;
+    border-right: 9px solid transparent;
+    border-left: 9px solid transparent;
+  }
+
+  /* <!-------------DropDown CSS ------------> */
+
+  /* <!------------------------------Our Service Works First Section --------------------> */
+
+  /* <!------------------------------Our Service Works sECOND Section --------------------> */
+
+  /* <!------------------Animation Page--------------------> */
+
+  .NAmoftheaboutSection {
+    position: absolute;
+    color: #fff;
+    top: 430px;
+    left: 30px;
+    font-family: Cormorant Infant;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+  }
+  .OurServicepagedivnkdkd {
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+  }
+  .OurServicepagedivnkdkd img {
+    position: relative;
+    top: 0;
+    left: 0;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+  .OurServicepagedivnkdkd .zssadtl {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    top: 100%;
+    padding: 0 10px 0 10px;
+    left: 0;
+    z-index: 1;
+    overflow: auto;
+    visibility: hidden;
+    transition: all 0.4s;
+  }
+  .OurServicepagedivnkdkd .zssadtl h3 {
+    color: #fff;
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+  }
+
+  .OurServicepagedivnkdkd .zssadtl h5 {
+    color: #fff;
+    margin-bottom: 15px;
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 3px;
+  }
+  .OurServicepagedivnkdkd .zssadtl p {
+    margin-bottom: 10px;
+    text-indent: 1px;
+    margin-left: 5px;
+    margin-right: 15px;
+    margin-top: 5px;
+    color: #fff;
+    font-family: Cormorant Infant;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0em;
+  }
+  .OurServicepagedivnkdkd .zssadtl a {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    color: #333;
+    float: right;
+    font-size: 13px;
+    padding: 2px 5px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .OUrworkdddddsbdfgydfghfdghf {
+    display: flex;
+    justify-content: center;
+  }
+
+  .OurServicepagedivnkdkd:hover img {
+    top: -100%;
+  }
+  .OurServicepagedivnkdkd:hover .zssadtl {
+    top: 0px;
+    opacity: 1;
+    visibility: visible;
+    /* margin-top: 5px; */
+  }
+
+  .HelloText {
+    position: absolute;
+    bottom: 30px;
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    color: #fff;
+    margin-left: 25px;
+  }
+
+  .MofularKitchesnfonts {
+    font-family: Cormorant Infant;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #dbbf8b;
+    text-align: left;
+    margin-left: 6px;
+    margin-top: -5px;
+    margin-bottom: -4px;
+  }
+
+  .OurServicepagedivnkdkd:hover {
+    .HelloText {
+      display: none;
+      -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      -moz-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+    }
+  }
+  .SizeoftheAboutPAGEiAMEG {
+    width: 233px;
+    height: 274px;
+    object-fit: cover;
+  }
+
+  .OurServicepagedivnkdkd:hover {
+    .NAmoftheaboutSection {
+      display: none;
+    }
+  }
+  /* <!------------------Animation Page--------------------> */
+
+  .oURwORKSDSECONDSECTIONDATSTS {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .OurserviceSectionPagedivmargintop {
+    margin-top: 50px;
+  }
+
+  .Maqrgiontopfiethediv {
+    margin-top: 0px;
+  }
+
+  .Maqrgiontopfiethediv:hover {
+    cursor: pointer;
+  }
+  /* <!------------------------------Our Service Works sECOND Section --------------------> */
+
+  .OUrworkdddddsbdfgydfghfdghf {
+    width: 700px;
+  }
+
+  .OurWokrsPageMainTabWidth {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 901px) and (max-width: 1350px) {
+  .oUEREworksSectionDivWidth {
+    width: 900px;
+  }
+
+  .mEDIAoFTHWoksetiofsection {
+    display: flex;
+    justify-content: center;
+  }
+  /* <!------------------------------Our Service Works First Section --------------------> */
+  .OUrservicefirsdtseti9ondropdowen {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 50px;
+  }
+
+  .OurWorksSecdftiondiv {
+    font-family: Cormorant Infant;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0em;
+    color: #062225;
+  }
+
+  /* <!-------------DropDown CSS ------------> */
+
+  .select-dropdown,
+  .select-dropdown * {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    box-sizing: border-box;
+  }
+  .select-dropdown {
+    position: relative;
+    background-color: transparent;
+    border-radius: 4px;
+    width: 320px;
+    height: 50px;
+    border: 2px solid #004147;
+  }
+  .select-dropdown select {
+    font-size: 1rem;
+    font-weight: normal;
+    width: 320px;
+    height: 40px;
+    padding: 8px 24px 8px 10px;
+    border: none;
+    background-color: transparent;
+    appearance: none;
+    font-family: Cormorant Infant;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+  }
+  .select-dropdown select:active,
+  .select-dropdown select:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  .select-dropdown:after {
+    content: "";
+    position: absolute;
+    top: 47%;
+    right: 16px;
+    width: -13px;
+    height: 9px;
+    margin-top: -2px;
+    border-top: 9px solid #004147;
+    border-right: 9px solid transparent;
+    border-left: 9px solid transparent;
+  }
+
+  /* <!-------------DropDown CSS ------------> */
+
+  /* <!------------------------------Our Service Works First Section --------------------> */
+
+  /* <!------------------------------Our Service Works sECOND Section --------------------> */
+
+  /* <!------------------Animation Page--------------------> */
+
+  .NAmoftheaboutSection {
+    position: absolute;
+    color: #fff;
+    top: 430px;
+    left: 30px;
+    font-family: Cormorant Infant;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+  }
+  .OurServicepagedivnkdkd {
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+  }
+  .OurServicepagedivnkdkd img {
+    position: relative;
+    top: 0;
+    left: 0;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+  .OurServicepagedivnkdkd .zssadtl {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    top: 100%;
+    padding: 0 10px 0 10px;
+    left: 0;
+    z-index: 1;
+    overflow: auto;
+    visibility: hidden;
+    transition: all 0.4s;
+  }
+  .OurServicepagedivnkdkd .zssadtl h3 {
+    color: #fff;
+    font-family: Cormorant Infant;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0em;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+  }
+
+  .OurServicepagedivnkdkd .zssadtl h5 {
+    color: #fff;
+    margin-bottom: 15px;
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 3px;
+  }
+  .OurServicepagedivnkdkd .zssadtl p {
+    margin-bottom: 10px;
+    text-indent: 1px;
+    margin-left: 5px;
+    margin-right: 15px;
+    margin-top: 5px;
+    color: #fff;
+    font-family: Cormorant Infant;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+  }
+  .OurServicepagedivnkdkd .zssadtl a {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    color: #333;
+    float: right;
+    font-size: 13px;
+    padding: 2px 5px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .OUrworkdddddsbdfgydfghfdghf {
+    display: flex;
+    justify-content: center;
+  }
+
+  .OurServicepagedivnkdkd:hover img {
+    top: -100%;
+  }
+  .OurServicepagedivnkdkd:hover .zssadtl {
+    top: 0px;
+    opacity: 1;
+    visibility: visible;
+    /* margin-top: 5px; */
+  }
+
+  .HelloText {
+    position: absolute;
+    bottom: 30px;
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    color: #fff;
+    margin-left: 25px;
+  }
+
+  .MofularKitchesnfonts {
+    font-family: Cormorant Infant;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #dbbf8b;
+    text-align: left;
+    margin-left: 6px;
+    margin-top: -5px;
+    margin-bottom: -4px;
+  }
+
+  .OurServicepagedivnkdkd:hover {
+    .HelloText {
+      display: none;
+      -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      -moz-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+    }
+  }
+  .SizeoftheAboutPAGEiAMEG {
+    width: 300px;
+    height: 335px;
+    object-fit: cover;
+  }
+
+  .OurServicepagedivnkdkd:hover {
+    .NAmoftheaboutSection {
+      display: none;
+    }
+  }
+  /* <!------------------Animation Page--------------------> */
+
+  .oURwORKSDSECONDSECTIONDATSTS {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .OurserviceSectionPagedivmargintop {
+    margin-top: 50px;
+  }
+
+  .Maqrgiontopfiethediv {
+    margin-top: 0px;
+  }
+
+  .Maqrgiontopfiethediv:hover {
+    cursor: pointer;
+  }
+  /* <!------------------------------Our Service Works sECOND Section --------------------> */
+
+  .OUrworkdddddsbdfgydfghfdghf {
+    width: 900px;
+  }
+
+  .OurWokrsPageMainTabWidth {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 1351px) {
+  /* <!------------------------------Our Service Works First Section --------------------> */
+  .OUrservicefirsdtseti9ondropdowen {
+    display: flex;
+    justify-content: center;
+    column-gap: 687px;
+    align-items: center;
+    padding-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .OurWorksSecdftiondiv {
+    font-family: Cormorant Infant;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 61px;
+    letter-spacing: 0em;
+    color: #062225;
+  }
+
+  /* <!-------------DropDown CSS ------------> */
+
+  .select-dropdown,
+  .select-dropdown * {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    box-sizing: border-box;
+  }
+  .select-dropdown {
+    position: relative;
+    background-color: transparent;
+    border-radius: 4px;
+    width: 350px;
+    height: 60px;
+    border: 2px solid #004147;
+  }
+  .select-dropdown select {
+    font-size: 1rem;
+    font-weight: normal;
+    width: 350px;
+    height: 56px;
+    padding: 8px 24px 8px 10px;
+    border: none;
+    background-color: transparent;
+    appearance: none;
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .select-dropdown select:active,
+  .select-dropdown select:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  .select-dropdown:after {
+    content: "";
+    position: absolute;
+    top: 47%;
+    right: 16px;
+    width: -13px;
+    height: 9px;
+    margin-top: -2px;
+    border-top: 9px solid #004147;
+    border-right: 9px solid transparent;
+    border-left: 9px solid transparent;
+  }
+
+  /* <!-------------DropDown CSS ------------> */
+
+  /* <!------------------------------Our Service Works First Section --------------------> */
+
+  /* <!------------------------------Our Service Works sECOND Section --------------------> */
+
+  /* <!------------------Animation Page--------------------> */
+
+  .NAmoftheaboutSection {
+    position: absolute;
+    color: #fff;
+    top: 430px;
+    left: 30px;
+    font-family: Cormorant Infant;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+  }
+  .OurServicepagedivnkdkd {
+    width: 447px;
+    object-fit: cover;
+    position: relative;
+    overflow: hidden;
+    -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+  }
+  .OurServicepagedivnkdkd img {
+    position: relative;
+    top: 0;
+    left: 0;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+  .OurServicepagedivnkdkd .zssadtl {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    top: 100%;
+    padding: 0 10px 0 10px;
+    left: 0;
+    z-index: 1;
+    overflow: auto;
+    visibility: hidden;
+    transition: all 0.4s;
+  }
+  .OurServicepagedivnkdkd .zssadtl h3 {
+    color: #fff;
+    font-family: Cormorant Infant;
+    font-size: 37px;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 32px;
+    margin-bottom: 5px;
+    margin-top: 89px;
+  }
+
+  .OurServicepagedivnkdkd .zssadtl h5 {
+    color: #fff;
+    margin-bottom: 15px;
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 3px;
+  }
+  .OurServicepagedivnkdkd .zssadtl p {
+    margin-bottom: 10px;
+    text-indent: 1px;
+    margin-left: 32px;
+    margin-right: 23px;
+    margin-top: 21px;
+    color: #fff;
+    font-family: Cormorant Infant;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+  }
+  .OurServicepagedivnkdkd .zssadtl a {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    color: #333;
+    float: right;
+    font-size: 13px;
+    padding: 2px 5px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .OurServicepagedivnkdkd:hover img {
+    top: -100%;
+  }
+  .OurServicepagedivnkdkd:hover .zssadtl {
+    top: 0px;
+    opacity: 1;
+    visibility: visible;
+    /* margin-top: 5px; */
+  }
+
+  .HelloText {
+    position: absolute;
+    bottom: 30px;
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    color: #fff;
+    margin-left: 25px;
+  }
+
+  .MofularKitchesnfonts {
+    font-family: Cormorant Infant;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #dbbf8b;
+    text-align: left;
+    margin-left: 6px;
+    margin-top: -5px;
+    margin-bottom: -4px;
+  }
+
+  .OurServicepagedivnkdkd:hover {
+    .HelloText {
+      display: none;
+      -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      -moz-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+    }
+  }
+  .SizeoftheAboutPAGEiAMEG {
+    width: 453px;
+    height: 534px;
+    object-fit: cover;
+  }
+
+  .OurServicepagedivnkdkd:hover {
+    .NAmoftheaboutSection {
+      display: none;
+    }
+  }
+  /* <!------------------Animation Page--------------------> */
+
+  .OurWokrsPageMainTabWidth {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+  }
+
+  .OUrworkdddddsbdfgydfghfdghf {
+    width: 1341px;
+  }
+
+  .oURwORKSDSECONDSECTIONDATSTS {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .OurserviceSectionPagedivmargintop {
+    margin-top: 50px;
+  }
+
+  .Maqrgiontopfiethediv {
+    margin-top: 0px;
+  }
+
+  .Maqrgiontopfiethediv:hover {
+    cursor: pointer;
+  }
+  /* <!------------------------------Our Service Works sECOND Section --------------------> */
+}

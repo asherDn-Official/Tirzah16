@@ -1,0 +1,1354 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 699px) {
+  /* <!--------------------Service Page First Section-------------> */
+
+  .SercivefistRightMargin {
+    margin-right: 0px;
+  }
+
+  .SercivefistRightMargin img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    padding-left: 1%;
+    padding-right: 1%;
+  }
+  .SerciveSecndRightMargin {
+    margin-left: 20px;
+  }
+
+  .ServicePageSecondSection2 {
+    margin-right: 50px;
+    margin-top: 9px;
+  }
+
+  .firstServicesectionflexdfid {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+  }
+
+  .OurProceDummyImg img {
+    width: 100%;
+  }
+  .ServicePageFirstSectionflexdiv {
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    color: #000000;
+  }
+  .ServicePageFirstSectionflexsecons {
+    font-family: Cormorant Infant;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #082d30;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    padding-right: 10px;
+  }
+
+  .flexsodthefirstsectin {
+    margin-top: 25px;
+  }
+
+  /* <!--------------------Service Page First Section-------------> */
+
+  /* <!--------------------Service Page Second Section-------------> */
+
+  .ServicePageSecondSFlexConcept {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    column-gap: 0px;
+    padding-left: 10px;
+  }
+  .SecondPageMainDivSections {
+    margin-top: 30px;
+  }
+
+  .ServicePageSecondSection1 {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  /* .MainDivoftheFlexconFirsetsection {
+    margin-top: 40px;
+  } */
+
+  .OurProcess222 {
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+
+  .Define {
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    margin-top: 30px;
+  }
+  .Definestageinvolves {
+    font-family: Cormorant Infant;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    width: 214px;
+    height: 161px;
+    color: #000000;
+    margin-top: 13px;
+  }
+
+  .OurProcessFirstSectionssaz {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    margin-top: 30px;
+  }
+
+  .OurProcessFirstSectionssazwithoutmargintop {
+    display: flex;
+    justify-content: center;
+    column-gap: 9px;
+    margin-top: -5px;
+  }
+  /* <!--------------------Service Page Second Section-------------> */
+
+  /* <!--------------------Service Page Third Section-------------> */
+
+  /* .ServicePageSecondSection2 img {
+    width: 300px;
+  } */
+
+  .ServiceMaindivflexConecprjdhn {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: auto;
+  }
+
+  .ServicePageSecondSection2 {
+    display: none;
+  }
+  .ServicePageThirdSectionBGColor {
+    background-color: #004147;
+    margin-top: 60px;
+    padding-bottom: 35px;
+  }
+
+  .OurExcellentServicesThirdSection {
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    color: #ffffff;
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 25px;
+  }
+
+  .LastSectionIImageIMG img {
+    width: 619.73px;
+    height: 730px;
+    object-fit: cover;
+  }
+
+  #leftoftheEvenediv {
+    margin-left: 30px;
+  }
+
+  .FirstDivFOrMainsectionzz {
+    margin-left: 17px;
+  }
+
+  .OurProceDummyImg {
+    margin-top: 20px;
+  }
+  /* <!------------------Animation Page--------------------> */
+
+  .NAmoftheaboutSection {
+    position: absolute;
+    font-family: Cormorant Infant;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    top: 331px;
+    left: 30px;
+  }
+  .zssadtl08 {
+    width: 160px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+  }
+  .zssadtl08 img {
+    position: relative;
+    top: 0;
+    left: 0;
+    -webkit-transition: all 0s;
+    -moz-transition: all 0s;
+    -o-transition: all 0s;
+    transition: all 0s;
+  }
+  .zssadtl08 .zssadtl {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    top: 100%;
+    padding: 0 0px 0 0px;
+    left: 0;
+    z-index: 1;
+    overflow: auto;
+    visibility: hidden;
+    transition: all 0.4s;
+  }
+  .zssadtl08 .zssadtl h3 {
+    color: #fff;
+    font-family: Cormorant Infant;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 7px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    width: 134px;
+    word-wrap: break-word;
+  }
+
+  .zssadtl08 .zssadtl h5 {
+    color: #fff;
+    margin-bottom: 15px;
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 3px;
+  }
+  .zssadtl08 .zssadtl p {
+    margin-bottom: 10px;
+    text-indent: 1px;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-family: Cormorant Infant;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 12px;
+    letter-spacing: 0em;
+    text-align: left;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 5px;
+    color: #fff;
+  }
+  .zssadtl08 .zssadtl a {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    color: #333;
+    float: right;
+    font-size: 13px;
+    padding: 2px 5px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .zssadtl08 .zssadtl a:hover {
+  }
+  .zssadtl08:hover img {
+    top: -100%;
+  }
+  .zssadtl08:hover .zssadtl {
+    top: 0px;
+    opacity: 1;
+    visibility: visible;
+    margin-top: 0px;
+  }
+
+  .HelloText {
+    position: absolute;
+    bottom: 30px;
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    color: #fff;
+    margin-left: 25px;
+  }
+
+  .MofularKitchesnfonts {
+    font-family: Cormorant Infant;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #dbbf8b;
+    text-align: left;
+    margin-left: 6px;
+    margin-top: -5px;
+    margin-bottom: -4px;
+  }
+
+  .zssadtl08:hover {
+    .HelloText {
+      display: none;
+      -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      -moz-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+    }
+  }
+  .OneSizeoftheAboutPAGEiAMEG {
+    width: 160px;
+    height: 202px;
+    object-fit: cover;
+  }
+
+  .zssadtl08:hover {
+    .NAmoftheaboutSection {
+      display: none;
+    }
+  }
+
+  .ServiceSerctiondisvsflexs {
+    display: flex;
+    justify-content: center;
+    margin-top: -5px;
+  }
+  /* <!------------------Animation Page--------------------> */
+
+  /* <!--------------------Service Page Third Section-------------> */
+}
+
+@media (min-width: 700px) and (max-width: 900px) {
+  /* <!--------------------Service Page First Section-------------> */
+
+  .SercivefistRightMargin {
+    margin-right: 20px;
+  }
+
+  .SercivefistRightMargin img {
+    width: 310px;
+    height: 169px;
+    object-fit: cover;
+  }
+  .SerciveSecndRightMargin {
+    margin-left: 20px;
+  }
+
+  .ServicePageSecondSection2 {
+    margin-right: 0px;
+    margin-top: 9px;
+  }
+
+  .firstServicesectionflexdfid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+  }
+
+  .ServicePageFirstSectionflexdiv {
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+    color: #000000;
+  }
+  .ServicePageFirstSectionflexsecons {
+    font-family: Cormorant Infant;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #082d30;
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+  }
+
+  .flexsodthefirstsectin {
+    margin-top: 50px;
+  }
+
+  /* <!--------------------Service Page First Section-------------> */
+
+  /* <!--------------------Service Page Second Section-------------> */
+
+  .ServicePageSecondSection2 img {
+    width: 365px;
+    height: 855px;
+  }
+
+  .OurProceDummyImg img {
+    width: 264px;
+    height: auto;
+  }
+
+  .ServicePageSecondSFlexConcept {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    column-gap: 30px;
+  }
+  .SecondPageMainDivSections {
+    margin-top: 30px;
+  }
+
+  .ServicePageSecondSection1 {
+    margin-left: 0px;
+  }
+  /* .MainDivoftheFlexconFirsetsection {
+    margin-top: 40px;
+  } */
+
+  .OurProcess222 {
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+  }
+
+  .Define {
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    margin-top: 30px;
+  }
+  .Definestageinvolves {
+    font-family: Cormorant Infant;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    width: 214px;
+    height: 161px;
+    color: #000000;
+    margin-top: 13px;
+  }
+
+  .OurProcessFirstSectionssaz {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    margin-top: 30px;
+  }
+
+  .OurProcessFirstSectionssazwithoutmargintop {
+    display: flex;
+    justify-content: center;
+    column-gap: 9px;
+    margin-top: -5px;
+  }
+  /* <!--------------------Service Page Second Section-------------> */
+
+  /* <!--------------------Service Page Third Section-------------> */
+
+  .ServicePageThirdSectionBGColor {
+    background-color: #004147;
+    margin-top: 60px;
+    padding-bottom: 90px;
+  }
+
+  .OurExcellentServicesThirdSection {
+    font-family: Cormorant Infant;
+    font-size: 49px;
+    font-weight: 600;
+    line-height: 61px;
+    letter-spacing: 0em;
+    color: #ffffff;
+    padding-top: 74px;
+    text-align: center;
+    padding-bottom: 74px;
+  }
+
+  .LastSectionIImageIMG img {
+    width: 619.73px;
+    height: 730px;
+    object-fit: cover;
+  }
+
+  #leftoftheEvenediv {
+    margin-left: 30px;
+  }
+
+  .FirstDivFOrMainsectionzz {
+    margin-left: 17px;
+  }
+
+  .OurProceDummyImg {
+    margin-top: 40px;
+  }
+  /* <!------------------Animation Page--------------------> */
+
+  .NAmoftheaboutSection {
+    position: absolute;
+    font-family: Cormorant Infant;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    top: 331px;
+    left: 30px;
+  }
+  .zssadtl08 {
+    width: 319px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+  }
+  .zssadtl08 img {
+    position: relative;
+    top: 0;
+    left: 0;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+  }
+  .zssadtl08 .zssadtl {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    top: 100%;
+    padding: 0 10px 0 10px;
+    left: 0;
+    z-index: 1;
+    overflow: auto;
+    visibility: hidden;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+  }
+  .zssadtl08 .zssadtl h3 {
+    color: #fff;
+    font-family: Cormorant Infant;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0em;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-top: 65px;
+  }
+
+  .zssadtl08 .zssadtl h5 {
+    color: #fff;
+    margin-bottom: 15px;
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 3px;
+  }
+  .zssadtl08 .zssadtl p {
+    margin-bottom: 10px;
+    text-indent: 1px;
+    margin-left: 12px;
+    margin-right: 12px;
+    font-family: Cormorant Infant;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    margin-top: 5px;
+    color: #fff;
+    color: #fff;
+  }
+  .zssadtl08 .zssadtl a {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    color: #333;
+    float: right;
+    font-size: 13px;
+    padding: 2px 5px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .zssadtl08 .zssadtl a:hover {
+  }
+  .zssadtl08:hover img {
+    top: -100%;
+  }
+  .zssadtl08:hover .zssadtl {
+    top: 0px;
+    opacity: 1;
+    visibility: visible;
+    margin-top: 0px;
+  }
+
+  .HelloText {
+    position: absolute;
+    bottom: 30px;
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    color: #fff;
+    margin-left: 25px;
+  }
+
+  .MofularKitchesnfonts {
+    font-family: Cormorant Infant;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #dbbf8b;
+    text-align: left;
+    margin-left: 6px;
+    margin-top: -5px;
+    margin-bottom: -4px;
+  }
+
+  .zssadtl08:hover {
+    .HelloText {
+      display: none;
+      -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      -moz-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+    }
+  }
+  .OneSizeoftheAboutPAGEiAMEG {
+    width: 319.73px;
+    height: 376px;
+    object-fit: cover;
+  }
+
+  .zssadtl08:hover {
+    .NAmoftheaboutSection {
+      display: none;
+    }
+  }
+
+  .ServiceSerctiondisvsflexs {
+    display: flex;
+    justify-content: center;
+    margin-top: -5px;
+  }
+
+  .ServiceMaindivflexConecprjdhn {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: auto;
+  }
+
+  /* <!------------------Animation Page--------------------> */
+
+  /* <!--------------------Service Page Third Section-------------> */
+}
+@media (min-width: 900px) and (max-width: 1200px) {
+  .mEDIAoFTHOurSERVICDEsection {
+    display: flex;
+    justify-content: center;
+  }
+
+  .oURESERVICESectionDivWidth {
+    width: 900px;
+  }
+  /* <!--------------------Service Page First Section-------------> */
+
+  .SercivefistRightMargin {
+    margin-right: 20px;
+  }
+
+  .SercivefistRightMargin img {
+    width: 310px;
+    height: 169px;
+    object-fit: cover;
+  }
+  .SerciveSecndRightMargin {
+    margin-left: 20px;
+  }
+
+  .ServicePageSecondSection2 {
+    margin-right: 0px;
+    margin-top: 9px;
+  }
+
+  .firstServicesectionflexdfid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+  }
+
+  .ServicePageFirstSectionflexdiv {
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+    color: #000000;
+  }
+  .ServicePageFirstSectionflexsecons {
+    font-family: Cormorant Infant;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #082d30;
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+  }
+
+  .flexsodthefirstsectin {
+    margin-top: 50px;
+  }
+
+  /* <!--------------------Service Page First Section-------------> */
+
+  /* <!--------------------Service Page Second Section-------------> */
+
+  .ServicePageSecondSection2 img {
+    width: 438px;
+    height: 985px;
+  }
+
+  .OurProceDummyImg img {
+    width: 308px;
+    height: auto;
+  }
+
+  .ServicePageSecondSFlexConcept {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    column-gap: 30px;
+  }
+  .SecondPageMainDivSections {
+    margin-top: 30px;
+  }
+
+  .ServicePageSecondSection1 {
+    margin-left: 0px;
+  }
+  /* .MainDivoftheFlexconFirsetsection {
+    margin-top: 40px;
+  } */
+
+  .OurProcess222 {
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+  }
+
+  .Define {
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    margin-top: 30px;
+  }
+  .Definestageinvolves {
+    font-family: Cormorant Infant;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    width: 214px;
+    height: 161px;
+    color: #000000;
+    margin-top: 13px;
+  }
+
+  .OurProcessFirstSectionssaz {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    margin-top: 30px;
+  }
+
+  .OurProcessFirstSectionssazwithoutmargintop {
+    display: flex;
+    justify-content: center;
+    column-gap: 9px;
+    margin-top: -5px;
+  }
+  /* <!--------------------Service Page Second Section-------------> */
+
+  /* <!--------------------Service Page Third Section-------------> */
+
+  .ServicePageThirdSectionBGColor {
+    background-color: #004147;
+    margin-top: 60px;
+    padding-bottom: 90px;
+  }
+
+  .OurExcellentServicesThirdSection {
+    font-family: Cormorant Infant;
+    font-size: 49px;
+    font-weight: 600;
+    line-height: 61px;
+    letter-spacing: 0em;
+    color: #ffffff;
+    padding-top: 74px;
+    text-align: center;
+    padding-bottom: 74px;
+  }
+
+  .LastSectionIImageIMG img {
+    width: 619.73px;
+    height: 730px;
+    object-fit: cover;
+  }
+
+  #leftoftheEvenediv {
+    margin-left: 30px;
+  }
+
+  .FirstDivFOrMainsectionzz {
+    margin-left: 17px;
+  }
+
+  .OurProceDummyImg {
+    margin-top: 40px;
+  }
+  /* <!------------------Animation Page--------------------> */
+
+  .NAmoftheaboutSection {
+    position: absolute;
+    font-family: Cormorant Infant;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    top: 331px;
+    left: 30px;
+  }
+  .zssadtl08 {
+    width: 390px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+  }
+  .zssadtl08 img {
+    position: relative;
+    top: 0;
+    left: 0;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+  }
+  .zssadtl08 .zssadtl {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    top: 100%;
+    padding: 0 10px 0 10px;
+    left: 0;
+    z-index: 1;
+    overflow: auto;
+    visibility: hidden;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+  }
+  .zssadtl08 .zssadtl h3 {
+    color: #fff;
+    font-family: Cormorant Infant;
+    font-size: 31px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-top: 65px;
+  }
+
+  .zssadtl08 .zssadtl h5 {
+    color: #fff;
+    margin-bottom: 15px;
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 3px;
+  }
+  .zssadtl08 .zssadtl p {
+    margin-bottom: 10px;
+    text-indent: 1px;
+    margin-left: 12px;
+    margin-right: 12px;
+    font-family: Cormorant Infant;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    margin-top: 12px;
+    color: #fff;
+    color: #fff;
+  }
+  .zssadtl08 .zssadtl a {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    color: #333;
+    float: right;
+    font-size: 13px;
+    padding: 2px 5px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .zssadtl08 .zssadtl a:hover {
+  }
+  .zssadtl08:hover img {
+    top: -100%;
+  }
+  .zssadtl08:hover .zssadtl {
+    top: 0px;
+    opacity: 1;
+    visibility: visible;
+    margin-top: 0px;
+  }
+
+  .HelloText {
+    position: absolute;
+    bottom: 30px;
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    color: #fff;
+    margin-left: 25px;
+  }
+
+  .MofularKitchesnfonts {
+    font-family: Cormorant Infant;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #dbbf8b;
+    text-align: left;
+    margin-left: 6px;
+    margin-top: -5px;
+    margin-bottom: -4px;
+  }
+
+  .zssadtl08:hover {
+    .HelloText {
+      display: none;
+      -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      -moz-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+    }
+  }
+  .OneSizeoftheAboutPAGEiAMEG {
+    width: 390px;
+    height: 460px;
+    object-fit: cover;
+  }
+
+  .zssadtl08:hover {
+    .NAmoftheaboutSection {
+      display: none;
+    }
+  }
+
+  .ServiceSerctiondisvsflexs {
+    display: flex;
+    justify-content: center;
+    margin-top: -5px;
+  }
+
+  .ServiceMaindivflexConecprjdhn {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: auto;
+  }
+
+  /* <!------------------Animation Page--------------------> */
+
+  /* <!--------------------Service Page Third Section-------------> */
+}
+
+@media (min-width: 1201px) {
+  /* <!--------------------Service Page First Section-------------> */
+
+  .SercivefistRightMargin {
+    margin-right: 55px;
+  }
+
+  .SercivefistRightMargin img {
+    width: 585px;
+    height: 330px;
+    object-fit: cover;
+  }
+  .SerciveSecndRightMargin {
+    margin-left: 55px;
+  }
+
+  .ServicePageSecondSection2 {
+    margin-right: 50px;
+    margin-top: 9px;
+  }
+
+  .firstServicesectionflexdfid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 35px;
+  }
+
+  .ServicePageFirstSectionflexdiv {
+    font-family: Cormorant Infant;
+    font-size: 49px;
+    font-weight: 600;
+    line-height: 61px;
+    letter-spacing: 0em;
+    color: #000000;
+  }
+  .ServicePageFirstSectionflexsecons {
+    font-family: Cormorant Infant;
+    font-size: 31px;
+    font-weight: 500;
+    line-height: 39px;
+    letter-spacing: 0em;
+    color: #082d30;
+    width: 629px;
+    height: 234px;
+    margin-top: 25px;
+  }
+
+  .flexsodthefirstsectin {
+    margin-top: 50px;
+  }
+
+  /* <!--------------------Service Page First Section-------------> */
+
+  /* <!--------------------Service Page Second Section-------------> */
+
+  .ServicePageSecondSFlexConcept {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    column-gap: 60px;
+  }
+  .SecondPageMainDivSections {
+    margin-top: 98px;
+  }
+
+  .ServicePageSecondSection1 {
+    margin-left: 50px;
+  }
+
+  .OurProcess222 {
+    font-family: Cormorant Infant;
+    font-size: 49px;
+    font-weight: 600;
+    line-height: 61px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+
+  .Define {
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    margin-top: 30px;
+  }
+  .Definestageinvolves {
+    font-family: Cormorant Infant;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    width: 214px;
+    height: 161px;
+    color: #000000;
+    margin-top: 13px;
+  }
+
+  .OurProcessFirstSectionssaz {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    margin-top: 30px;
+  }
+
+  .OurProcessFirstSectionssazwithoutmargintop {
+    display: flex;
+    justify-content: center;
+    column-gap: 9px;
+    margin-top: -5px;
+  }
+  /* <!--------------------Service Page Second Section-------------> */
+
+  /* <!--------------------Service Page Third Section-------------> */
+
+  .ServicePageThirdSectionBGColor {
+    background-color: #004147;
+    margin-top: 60px;
+    padding-bottom: 90px;
+  }
+
+  .OurExcellentServicesThirdSection {
+    font-family: Cormorant Infant;
+    font-size: 49px;
+    font-weight: 600;
+    line-height: 61px;
+    letter-spacing: 0em;
+    color: #ffffff;
+    padding-top: 74px;
+    text-align: center;
+    padding-bottom: 74px;
+  }
+
+  .LastSectionIImageIMG img {
+    width: 619.73px;
+    height: 730px;
+    object-fit: cover;
+  }
+
+  #leftoftheEvenediv {
+    margin-left: 30px;
+  }
+
+  .FirstDivFOrMainsectionzz {
+    margin-left: 17px;
+  }
+
+  .OurProceDummyImg {
+    margin-top: 40px;
+  }
+  /* <!------------------Animation Page--------------------> */
+
+  .NAmoftheaboutSection {
+    position: absolute;
+    font-family: Cormorant Infant;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    top: 331px;
+    left: 30px;
+  }
+  .zssadtl08 {
+    width: 619.73px;
+    position: relative;
+    overflow: hidden;
+    -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+  }
+  .zssadtl08 img {
+    position: relative;
+    top: 0;
+    left: 0;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+  }
+  .zssadtl08 .zssadtl {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    top: 100%;
+    padding: 0 10px 0 10px;
+    left: 0;
+    z-index: 1;
+    overflow: auto;
+    visibility: hidden;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+  }
+  .zssadtl08 .zssadtl h3 {
+    color: #fff;
+    font-family: Cormorant Infant;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 51px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 32px;
+    margin-bottom: 5px;
+    margin-top: 100px;
+  }
+
+  .zssadtl08 .zssadtl h5 {
+    color: #fff;
+    margin-bottom: 15px;
+    font-family: Cormorant Infant;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 0px;
+    margin-bottom: 3px;
+  }
+  .zssadtl08 .zssadtl p {
+    margin-bottom: 10px;
+    text-indent: 1px;
+    margin-left: 32px;
+    margin-right: 23px;
+    font-family: Cormorant Infant;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 5px;
+    color: #fff;
+  }
+  .zssadtl08 .zssadtl a {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    color: #333;
+    float: right;
+    font-size: 13px;
+    padding: 2px 5px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .zssadtl08 .zssadtl a:hover {
+  }
+  .zssadtl08:hover img {
+    top: -100%;
+  }
+  .zssadtl08:hover .zssadtl {
+    top: 0px;
+    opacity: 1;
+    visibility: visible;
+    margin-top: 0px;
+  }
+
+  .HelloText {
+    position: absolute;
+    bottom: 30px;
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    color: #fff;
+    margin-left: 25px;
+  }
+
+  .MofularKitchesnfonts {
+    font-family: Cormorant Infant;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #dbbf8b;
+    text-align: left;
+    margin-left: 6px;
+    margin-top: -5px;
+    margin-bottom: -4px;
+  }
+
+  .zssadtl08:hover {
+    .HelloText {
+      display: none;
+      -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      -moz-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+      box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.3);
+    }
+  }
+  .OneSizeoftheAboutPAGEiAMEG {
+    width: 619.73px;
+    height: 730px;
+    object-fit: cover;
+  }
+
+  .zssadtl08:hover {
+    .NAmoftheaboutSection {
+      display: none;
+    }
+  }
+
+  .ServiceSerctiondisvsflexs {
+    display: flex;
+    justify-content: center;
+    margin-top: -5px;
+  }
+
+  .ServiceMaindivflexConecprjdhn {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    height: auto;
+  }
+
+  .Secifehshjdfjfdjasz12 {
+    width: 1250px;
+  }
+
+  .sfnjrfnncxsswsewqe {
+    display: flex;
+    justify-content: center;
+  }
+
+  /* <!------------------Animation Page--------------------> */
+
+  /* <!--------------------Service Page Third Section-------------> */
+}

@@ -1,0 +1,250 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+
+@media (max-width: 699px) {
+  /* <!------------------------Footer---------------------> */
+
+  .Firstofofthefotter img {
+    width: 59px;
+    height: 25px;
+  }
+
+  .Thirdsofthefotter,
+  .Fourdasofthefotter,
+  .HeadingOfTHEdiv {
+    display: none;
+  }
+
+  .Secondofthefotter {
+    display: flex;
+    justify-content: center;
+    column-gap: 27px;
+  }
+
+  .OFooterimagesdisplaydbg {
+    background-color: #004147;
+  }
+  .FlexingConxpetoifthedoiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    column-gap: 0px;
+    row-gap: 1px;
+    align-items: center;
+    padding-top: 21px;
+    padding-bottom: 19px;
+  }
+
+  .HeadingOfTHEdiv {
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+  }
+
+  .Sideeheadingsodfthefooter {
+    font-family: Cormorant Infant;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 13px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 15px;
+  }
+
+  .Sideeheadingsodfthefooter:hover {
+    cursor: pointer;
+    /* text-decoration: underline;
+  text-underline-offset: 4px; */
+    color: #dbbf8b;
+  }
+
+  .Sideeheadingsodfthefooter1:hover {
+    cursor: pointer;
+    color: #dbbf8b;
+  }
+  .LOACTIONFooterfivflexscv {
+    display: flex;
+    align-items: baseline;
+    justify-content: unset;
+    column-gap: 10px;
+    width: 223px;
+  }
+
+  .Logioungimagediv {
+    margin-top: 30px;
+  }
+  .FooterLastsectionmimage {
+    margin-top: 10px;
+  }
+
+  .Sideeheadingsodfthefooter1 {
+    font-family: Cormorant Infant;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 15px;
+  }
+  /* <!------------------------Footer---------------------> */
+}
+@media (min-width: 700px) and (max-width: 999px) {
+  /* <!------------------------Footer---------------------> */
+
+  .FooterLogoImage img {
+    width: 108px;
+  }
+
+  .OFooterimagesdisplaydbg {
+    background-color: #004147;
+  }
+  .FlexingConxpetoifthedoiv {
+    display: flex;
+    justify-content: center;
+    column-gap: 60px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+  }
+
+  .HeadingOfTHEdiv {
+    font-family: Cormorant Infant;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+  }
+
+  .Sideeheadingsodfthefooter {
+    font-family: Cormorant Infant;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 8px;
+  }
+
+  .Sideeheadingsodfthefooter:hover {
+    cursor: pointer;
+    /* text-decoration: underline;
+  text-underline-offset: 4px; */
+    color: #dbbf8b;
+  }
+
+  .Sideeheadingsodfthefooter1:hover {
+    cursor: pointer;
+    color: #dbbf8b;
+  }
+  .LOACTIONFooterfivflexscv {
+    display: flex;
+    align-items: baseline;
+    justify-content: unset;
+    column-gap: 10px;
+    width: 154px;
+  }
+
+  .Logioungimagediv {
+    margin-top: 30px;
+  }
+  .FooterLastsectionmimage {
+    margin-top: 10px;
+  }
+
+  .Sideeheadingsodfthefooter1 {
+    font-family: Cormorant Infant;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 8px;
+  }
+  /* <!------------------------Footer---------------------> */
+}
+@media (min-width: 1000px) {
+  /* <!------------------------Footer---------------------> */
+
+  .OFooterimagesdisplaydbg {
+    background-color: #004147;
+  }
+  .FlexingConxpetoifthedoiv {
+    display: flex;
+    justify-content: center;
+    column-gap: 137px;
+    padding-top: 50px;
+    padding-bottom: 23px;
+  }
+
+  .HeadingOfTHEdiv {
+    font-family: Cormorant Infant;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+  }
+
+  .Sideeheadingsodfthefooter {
+    font-family: Cormorant Infant;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 15px;
+  }
+
+  .Sideeheadingsodfthefooter:hover {
+    cursor: pointer;
+    /* text-decoration: underline;
+  text-underline-offset: 4px; */
+    color: #dbbf8b;
+  }
+
+  .Sideeheadingsodfthefooter1:hover {
+    cursor: pointer;
+    color: #dbbf8b;
+  }
+  .LOACTIONFooterfivflexscv {
+    display: flex;
+    align-items: baseline;
+    justify-content: unset;
+    column-gap: 10px;
+    width: 223px;
+  }
+
+  .Logioungimagediv {
+    margin-top: 30px;
+  }
+  .FooterLastsectionmimage {
+    margin-top: 10px;
+  }
+
+  .Sideeheadingsodfthefooter1 {
+    font-family: Cormorant Infant;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-top: 15px;
+  }
+  /* <!------------------------Footer---------------------> */
+}
